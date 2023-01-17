@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About me"
++title: "About me"
+ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +10,6 @@ redirect_from:
 
 
 
-About me
 ======
 
 Currently, I am an Assistant professor of the Department of Mathematics and Statistics at San Diego State University. 
