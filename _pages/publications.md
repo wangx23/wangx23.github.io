@@ -27,3 +27,15 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
  * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2021). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. 35(2): 172-184.
 
+Submitted
+====
+
+* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, https://arxiv.org/abs/1910.11258.
+
+* McDonald, E . and __Wang, X.__. Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators.
+
+* __Wang, X.__, Zhang, X. and Zhu, Z. Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data.
+
+* __Wang, X.__, and Zhang, J.. A clustered variance model with an application in aquatic toxicity assessment.
+
+
