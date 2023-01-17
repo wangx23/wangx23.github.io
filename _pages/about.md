@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-======
 
 Currently, I am an Assistant professor of the Department of Mathematics and Statistics at San Diego State University. 
 
