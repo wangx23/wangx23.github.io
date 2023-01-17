@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Publications
+====
 * __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation
 (2022+), _Computational Statistics and Data Analysis_.
 
