@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Xin Wang"
 title_separator          : "-"
-name                     : &XW "Xin Wang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xin Wang"
+description              : &description "Assistant Professor at San Diego State University"
+url                      : https://wangx23.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wangx23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
