@@ -19,11 +19,11 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__, Roy, V. and Zhu, Z. (2018). A new algorithm to estimate monotone nonparametric link functions and a comparison with parametric approach. _Statistics and Computing_, 28:1083- 1094.
 
-* __Wang, X.__, Berg, E., Zhu, Z., Sun, D. and Demuth, G. (2018+). Small area estimation of proportions with constraint for National Resources Inventory survey. _Journal of Agricultural, Biological, and Environmental Statistics_,__23__(4): 509528.
+* __Wang, X.__, Berg, E., Zhu, Z., Sun, D. and Demuth, G. (2018). Small area estimation of proportions with constraint for National Resources Inventory survey. _Journal of Agricultural, Biological, and Environmental Statistics_,__23__(4): 509528.
 
-* __Wang, X.__ and Roy, V.,Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors. _Electronic Journal of Statistics_, __12__(2): 3295-3311.
+* __Wang, X.__ and Roy, V. (2018),Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors. _Electronic Journal of Statistics_, __12__(2): 3295-3311.
 
-* __Wang, X.__ and Roy, V., Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
+* __Wang, X.__ and Roy, V. (2018), Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
 
  * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2021). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. 35(2): 172-184.
 
