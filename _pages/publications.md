@@ -8,7 +8,11 @@ author_profile: true
 Publications
 ====
 * __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation
-(2022+), _Computational Statistics and Data Analysis_.
+(2023), _Computational Statistics and Data Analysis_.
+
+* Moraes DCA, Vincent Baker AL, __Wang X__, Zhu Z, Berg E, Trevisan G, Zhang J, Jayaraman S, Linhares DCL, Gauger PC and Silva GS (2023), Veterinarian perceptions and practices in prevention and control of influenza virus in the Midwest United States swine farms, _Front. Vet. Sci._ 10:1089132. doi: 10.3389/fvets.2023.1089132
+
+* Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2021). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. 35(2): 172-184.
 
 * Miljkovic, T and __Wang, X.__ (2021), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_,63:168–186. (co-first authorship).
 
@@ -25,7 +29,7 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__ and Roy, V. (2018), Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
 
- * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2021). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. 35(2): 172-184.
+ 
 
 Submitted
 ====
