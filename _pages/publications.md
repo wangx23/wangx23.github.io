@@ -8,7 +8,9 @@ author_profile: true
 Publications
 ====
 
-* __Wang, X.__, Zhang, X. and Zhu, Z. Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, Accepted,_Technometrics_.
+* * __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_.
+
+* __Wang, X.__, Zhang, X. and Zhu, Z., Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, Accepted,_Technometrics_.
 
 * __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation
 (2023), _Computational Statistics and Data Analysis_.
@@ -37,12 +39,10 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 Submitted
 ====
 
-* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm.
-
 * McDonald, E . and __Wang, X.__. Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators.
 
 * __Wang, X.__, and Zhang, J.. A clustered variance model with an application in aquatic toxicity assessment.
 
-* Gang, M., __Wang, X.__, Wang, Z., Zhong, W..Probability Weighted Clustered Coefficients Regression Models in Complex Survey Sampling.
+
 
 
