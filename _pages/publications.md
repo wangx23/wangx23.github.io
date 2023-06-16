@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ====
 
-* * __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_.
+* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_.
 
 * __Wang, X.__, Zhang, X. and Zhu, Z., Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, Accepted,_Technometrics_.
 
