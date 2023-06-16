@@ -10,7 +10,7 @@ Publications
 
 * __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_.
 
-* __Wang, X.__, Zhang, X. and Zhu, Z., Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, Accepted,_Technometrics_.
+* __Wang, X.__, Zhang, X. and Zhu, Z., Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data (2023+), _Technometrics_.
 
 * __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation
 (2023), _Computational Statistics and Data Analysis_.
