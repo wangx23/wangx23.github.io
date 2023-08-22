@@ -8,7 +8,9 @@ author_profile: true
 Publications
 ====
 
-* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_. [Link](https://link.springer.com/epdf/10.1007/s00180-023-01380-2?sharing_token=edboY7k0Rk-J8y3YwOW1yPe4RwlQNchNByi7wbcMAY5x-xe-DolPiEQxeR3N_aB2bAah1e_wK-DFr5MwM7N422lo0eez3jr6Wog8o-M8VawlBTn1oQFJ4X3mOHYaMdmklrA-epSlKLYdsskJ6xdCuxOD-W2BLYOpriRgnHsSC84%3D)
+* McDonald, E . and __Wang, X.__ (2023+), Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators, Accepted, _Metron_.
+  
+* __Wang, X.__ (2023+), Clustering of longitudinal curves via a penalized method and EM algorithm, Accepted, _Computational Statistics_. [Link](https://link.springer.com/epdf/10.1007/s00180-023-01380-2?sharing_token=edboY7k0Rk-J8y3YwOW1yPe4RwlQNchNByi7wbcMAY5x-xe-DolPiEQxeR3N_aB2bAah1e_wK-DFr5MwM7N422lo0eez3jr6Wog8o-M8VawlBTn1oQFJ4X3mOHYaMdmklrA-epSlKLYdsskJ6xdCuxOD-W2BLYOpriRgnHsSC84%3D)
 
 * __Wang, X.__, Zhang, X. and Zhu, Z. (2023+), Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, _Technometrics_. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2023.2190779)
 
@@ -34,14 +36,6 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256. [
 * __Wang, X.__ and Roy, V. (2018), Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439. [Link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-12/issue-2/Convergence-analysis-of-the-block-Gibbs-sampler-for-Bayesian-probit/10.1214/18-EJS1506.full)
 
  
-
-Submitted
-====
-
-* McDonald, E . and __Wang, X.__. Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators.
-
-* __Wang, X.__, and Zhang, J.. A clustered variance model with an application in aquatic toxicity assessment.
-
 
 
 
