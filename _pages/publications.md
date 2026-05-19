@@ -7,9 +7,13 @@ author_profile: true
 
 Publications
 ====
-* __Wang, X.__ and Huang, X. (2025). Model-assisted estimators based on clustered coefficient linear regression models in small area estimation. _Journal of Statistical Computation and Simulation_, accepted. [link](https://doi.org/10.1080/00949655.2025.2484226)
+* Pender, J., Goldstein, J., Charankevich, H., __Wang, X.__ and Kattampallil, N. (2026). Impacts of the USDA Broadband Initiatives Program on house prices. _Economic Inquiry_, 64(1), 300-324.
+
+* Zhang, Z., __Wang, X.__, Zhang, X. and Zhang, J. (2025). Simultaneously detecting spatiotemporal changes with penalized Poisson regression models. _Computational Statistics & Data Analysis_, __212__: 108240.
+
+* __Wang, X.__ and Huang, X. (2025). Model-assisted estimators based on clustered coefficient linear regression models in small area estimation. _Journal of Statistical Computation and Simulation_,95(10):2145-2162. [link](https://doi.org/10.1080/00949655.2025.2484226)
   
-* Zhang, X., Yu, S., Zhu, Z. and __Wang, X.__ (2025). Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso. _Journal of Computational and Graphical Statistics_, accepted. [link](https://doi.org/10.1080/10618600.2025.2467649)
+* Zhang, X., Yu, S., Zhu, Z. and __Wang, X.__ (2025). Spatial Heterogeneous Additive Partial Linear Model: A Joint Approach of Bivariate Spline and Forest Lasso. _Journal of Computational and Graphical Statistics_, 34(4), 1553-1565. [link](https://doi.org/10.1080/10618600.2025.2467649)
 
 * Gang, M., __Wang, X.__, Wang, Z. and Zhong, W. (2024). Probability-weighted clustered coefficient regression models in complex survey sampling. _Electronic Journal of Statistics_, 18(2): 4198-4234. [link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Probability-weighted-clustered-coefficient-regression-models-in-complex-survey-sampling/10.1214/24-EJS2295.full)
 
