@@ -8,4 +8,4 @@ date: 2024-08-01
 location: "San Diego, USA"
 ---
 
-Fall 2024 - Spring 2025
+Fall 2024 - Spring 2026
