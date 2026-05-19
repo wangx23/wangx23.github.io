@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research interest
-======
-Model-based clustering, Penalized approaches, Small area estimation, Spatial statistics.
 
 Education
 ======
