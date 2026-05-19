@@ -22,10 +22,10 @@ Publications
 * __Wang, X.__, and Zhang, X.(2024). Scanner: Simultaneously Temporal Trend and Spatial Cluster Detection for Spatial-Temporal Data. _Environmetrics_, 35(5):e2849. [link](http://doi.org/10.1002/env.2849).
 
 * McDonald, E . and __Wang, X.__ (2024), Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators. _Metron_,82:213-239.
-
-* * Han, A., Huang, J., __Wang, X.__ and Zhu, Z. (2023). Efficient Water-Saving Irrigation, Space Efficiency and Agricultural Development—Study Based on Spatial Stochastic Frontier Model. _Journal of Systems Science and Complexity_, 36(6): 2559–25794.
   
 * __Wang, X.__ (2024). Clustering of longitudinal curves via a penalized method and EM algorithm. _Computational Statistics_, 39: 1485–1512. [Link](https://link.springer.com/epdf/10.1007/s00180-023-01380-2?sharing_token=edboY7k0Rk-J8y3YwOW1yPe4RwlQNchNByi7wbcMAY5x-xe-DolPiEQxeR3N_aB2bAah1e_wK-DFr5MwM7N422lo0eez3jr6Wog8o-M8VawlBTn1oQFJ4X3mOHYaMdmklrA-epSlKLYdsskJ6xdCuxOD-W2BLYOpriRgnHsSC84%3D)
+
+* Han, A., Huang, J., __Wang, X.__ and Zhu, Z. (2023). Efficient Water-Saving Irrigation, Space Efficiency and Agricultural Development—Study Based on Spatial Stochastic Frontier Model. _Journal of Systems Science and Complexity_, 36(6): 2559–25794.
 
 * __Wang, X.__, Zhang, X. and Zhu, Z. (2023), Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data, _Technometrics_, 65(4): 514-523. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2023.2190779)
 
