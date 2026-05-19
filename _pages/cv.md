@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research interest
+======
+Model-based clustering, Penalized approaches, Small area estimation, Spatial statistics.
+
 Education
 ======
 * PhD in Statistics, Iowa State University, 2013-2018,
