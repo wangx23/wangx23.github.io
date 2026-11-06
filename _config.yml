@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Wang"
 title_separator          : "-"
 name                     : &name "Xin Wang"
-description              : &description "Assistant Professor at San Diego State University"
+description              : &description "Associate Professor at San Diego State University"
 url                      : https://wangx23.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangx23.github.io"
