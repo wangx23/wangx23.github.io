@@ -7,6 +7,10 @@ author_profile: true
 
 Publications
 ====
+* __Wang, X__. and Payne, K. (2026). Model-based estimators using area-level models with clustered effects. _Journal of Survey Statistics and Methodology_, accepted.
+
+* Yue, T., Yin, S., __Wang, X.__ et al. (2026). Improving ERA5 temperature downscaling over complex terrain with interpretable ML: incorporating cold air pools and nocturnal warming. _Climate Dynamics_, 64 (299).
+
 * Pender, J., Goldstein, J., Charankevich, H., __Wang, X.__ and Kattampallil, N. (2026). Impacts of the USDA Broadband Initiatives Program on house prices. _Economic Inquiry_, 64(1), 300-324.
 
 * Zhang, Z., __Wang, X.__, Zhang, X. and Zhang, J. (2025). Simultaneously detecting spatiotemporal changes with penalized Poisson regression models. _Computational Statistics & Data Analysis_, __212__: 108240.
