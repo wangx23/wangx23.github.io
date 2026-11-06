@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Assistant Professor, 2022 - current, San Diego State University
+* Associate Professor, 2026 - current, San Diego State University
+* Assistant Professor, 2022 - 2026, San Diego State University
 * Assistant Professor, 2018-2022, Miami University, Oxford, OH
 
 
