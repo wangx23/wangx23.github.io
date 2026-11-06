@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Currently, I am an Assistant professor of the Department of Mathematics and Statistics at San Diego State University. 
+Currently, I am an Associate professor of the Department of Mathematics and Statistics at San Diego State University. 
 
 
 Research Interest
